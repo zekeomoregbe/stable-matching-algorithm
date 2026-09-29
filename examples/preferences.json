@@ -1,0 +1,14 @@
+{
+  "proposers": {
+    "Avery": ["Jordan", "Riley", "Morgan", "Casey"],
+    "Blake": ["Riley", "Jordan", "Casey", "Morgan"],
+    "Cameron": ["Riley", "Casey", "Morgan", "Jordan"],
+    "Drew": ["Jordan", "Morgan", "Riley", "Casey"]
+  },
+  "receivers": {
+    "Jordan": ["Blake", "Avery", "Drew", "Cameron"],
+    "Riley": ["Avery", "Cameron", "Blake", "Drew"],
+    "Morgan": ["Drew", "Blake", "Cameron", "Avery"],
+    "Casey": ["Cameron", "Drew", "Avery", "Blake"]
+  }
+}
